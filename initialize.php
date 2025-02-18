@@ -1,5 +1,5 @@
 <?php
-if (!defined('base_url')) define("base_url", 'http://localhost/my_Projetcs/talent-synergy/');
+if (!defined('base_url')) define("base_url", 'https://talent-synergy.com/');
 if (!defined('app_name')) define("app_name", 'Talent Synergy Solutions');
 if (!defined('DB_SERVER')) define("DB_SERVER", "");
 if (!defined('DB_USERNAME')) define("DB_USERNAME", "");
